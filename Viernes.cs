@@ -14,7 +14,6 @@ namespace Ejercicios
             int num2 = 0;
 
             int numberMenu = 0;
-            Console.WriteLine("");
             Console.WriteLine("Escoger una opción");
             Console.WriteLine("1 - sumar");
             Console.WriteLine("2 - restar");
